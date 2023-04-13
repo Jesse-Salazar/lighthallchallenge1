@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lighthallchallenge1/static/css/main.0a839e5b.css",
+    "main.js": "/lighthallchallenge1/static/js/main.226c69fb.js",
+    "index.html": "/lighthallchallenge1/index.html",
+    "main.0a839e5b.css.map": "/lighthallchallenge1/static/css/main.0a839e5b.css.map",
+    "main.226c69fb.js.map": "/lighthallchallenge1/static/js/main.226c69fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a839e5b.css",
+    "static/js/main.226c69fb.js"
+  ]
+}
